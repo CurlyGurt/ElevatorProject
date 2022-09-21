@@ -2,7 +2,7 @@
 Visualizing a modernized elevator design
 
 # Institutional Advancement Elevator: Upsides & Downsides
-![IMG_20220921_111036743_HDR](https://user-images.githubusercontent.com/114094237/191556246-0c529c37-9b51-41b6-84ed-4eb15f70b7ac.jpg) https://user-images.githubusercontent.com/114094237/191565609-3aaafdf7-3ec3-40e3-a2e8-caf18032249d.mp4
+![IMG_20220921_111036743_HDR](https://user-images.githubusercontent.com/114094237/191556246-0c529c37-9b51-41b6-84ed-4eb15f70b7ac.jpg) <iframe src="https://giphy.com/embed/YLl4mMiNtOwSnpKtbF" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YLl4mMiNtOwSnpKtbF">via GIPHY</a></p>
 
 
 
