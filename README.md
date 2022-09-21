@@ -1,2 +1,2 @@
 # ElevatorProject
-Visualizing a new elevator design
+Visualizing a modernized elevator design
