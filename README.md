@@ -13,4 +13,8 @@ Common and Rare uses: I commonly only need to press one of the numbered buttons 
 
 Common Sequence of actions: A typical user will usually use this elevator by first pressing the call button just outside. They will then get into the elevator and press the number of their desired floor. Finally, the doors will close and the elevator will stop at each floor that was pressed.
 
-How does the elevator suppoer the user to fig
+How does the elevator support the user to figure out how to make it work? There are several markings to explain the button's purpose; the numbers are large, visible, and obvious as to what their function is.
+
+Elevator's Feedback: The individual buttons provide feedback by lighting up when they are pressed. The user is notified by a tone when the elevator comes to a stop. There is a simple LCD display to inform the user of what floor the elevator is currently on.
+
+Possible User Errors:
