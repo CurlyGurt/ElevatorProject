@@ -1,5 +1,5 @@
-# ElevatorProject
-Visualizing a modernized elevator design
+# Elevator Project
+Our Objective with this project is to create a modern design for an elevator panel. We are replacing the typical button array with a touchscreen and we were encouraged to be creative with it.
 
 # Institutional Advancement Elevator: Upsides & Downsides
 ![IMG_20220921_144219805(1)](https://user-images.githubusercontent.com/114094237/191599398-53dcbf02-e27b-42d5-8fcb-c0b49176aba6.png) ![giphy](https://user-images.githubusercontent.com/114094237/191566506-575f2bcb-9c45-4d1e-8f06-9e96c4c856bb.gif) ![press](https://user-images.githubusercontent.com/114094237/191567374-df3098d2-b217-476f-94a1-598e12b4d940.gif)
