@@ -23,3 +23,5 @@ Possible User Errors: With the awkwardly staggered design, it would be very easy
 ![IMG_20220928_204100172](https://user-images.githubusercontent.com/114094237/192919403-3164e26d-0981-48dc-97fe-8fe5d672be2d.jpg)
 
 # Processing Prototype
+![Floor2](https://user-images.githubusercontent.com/114094237/192920580-2fe6f970-c497-45b8-8dc5-ae8d6d9b7904.gif)
+![HandicapPress](https://user-images.githubusercontent.com/114094237/192920887-f7517336-8b93-4fa3-ba32-60077a2f4469.gif)
