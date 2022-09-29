@@ -18,3 +18,8 @@ How does the elevator support the user to figure out how to make it work? There 
 Elevator's Feedback: The individual buttons provide feedback by lighting up when they are pressed. The user is notified by a tone when the elevator comes to a stop. There is a simple LCD display to inform the user of what floor the elevator is currently on.
 
 Possible User Errors: With the awkwardly staggered design, it would be very easy to go to the wrong floor if you were in a hurry. It would also be possible to accidentally press the door open button or even the "Help Phone" button if you assumed that the first floor should be the bottom most button.
+
+# Elevator Rough Draft
+![IMG_20220928_204100172](https://user-images.githubusercontent.com/114094237/192919403-3164e26d-0981-48dc-97fe-8fe5d672be2d.jpg)
+
+# Processing Prototype
